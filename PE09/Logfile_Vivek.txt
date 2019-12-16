@@ -1,0 +1,38 @@
+2019, 12, 05 18:18:07:56
+Opereation failed to complete
+2019, 12, 05 18:18:11:40
+Opereation failed to complete
+2019, 12, 05 18:18:12:29
+Opereation failed to complete
+2019, 12, 05 18:18:15:25
+Opereation failed to complete
+2019, 12, 05 18:18:16:24
+Opereation failed to complete
+2019, 12, 05 18:18:20:56
+Opereation failed to complete
+2019, 12, 05 18:18:24:49
+Opereation failed to complete
+2019, 12, 05 18:18:35:10
+Opereation failed to complete
+2019, 12, 05 18:18:40:04
+Opereation failed to complete
+2019, 12, 05 18:18:42:58
+Opereation failed to complete
+2019, 12, 05 18:18:43:21
+Opereation failed to complete
+2019, 12, 05 19:19:32:26
+Error connecting to MySQLdatabase
+User : root
+url: jdbc:mysql://localhost:3306/travel?useSSL=false
+2019, 12, 05 19:19:32:26
+Opereation failed to complete
+2019, 12, 05 19:19:32:26
+Opereation failed to complete
+2019, 12, 05 19:19:34:23
+Error connecting to MySQLdatabase
+User : root
+url: jdbc:mysql://localhost:3306/travel?useSSL=false
+2019, 12, 05 19:19:34:23
+Opereation failed to complete
+2019, 12, 05 19:19:34:23
+Opereation failed to complete

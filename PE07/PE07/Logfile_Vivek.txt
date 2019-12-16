@@ -1,0 +1,219 @@
+2019, 10, 13 23:23:09:06
+Error connecting to MySQLdatabase
+User : root
+url: jdbc:mysql://localhost:3306/wrongtravel?useSSL=false
+2019, 10, 13 23:23:10:33
+Error in getData
+Error in query : Select * FROM Equipment WHERE EqId = 568 ;
+2019, 10, 26 23:23:21:55
+Error connecting to MySQLdatabase
+User : root
+url: jdbc:mysql://localhost:3306/wrongtravel?useSSL=false
+2019, 10, 26 23:23:22:29
+Error connecting to MySQLdatabase
+User : root
+url: jdbc:mysql://localhost:3306/wrongtravel?useSSL=false
+2019, 10, 26 23:23:22:29
+Opereation failed to complete
+2019, 10, 26 23:23:23:23
+Error connecting to MySQLdatabase
+User : root
+url: jdbc:mysql://localhost:3306/wrongtravel?useSSL=false
+2019, 10, 26 23:23:23:23
+Opereation failed to complete
+2019, 10, 26 23:23:23:23
+Opereation failed to complete
+2019, 10, 26 23:23:24:17
+Error connecting to MySQLdatabase
+User : root
+url: jdbc:mysql://localhost:3306/wrongtravel?useSSL=false
+2019, 10, 26 23:23:24:17
+Opereation failed to complete
+2019, 10, 26 23:23:24:17
+Opereation failed to complete
+2019, 10, 26 23:23:24:17
+Error connecting to MySQLdatabase
+User : root
+url: jdbc:mysql://localhost:3306/travel?useSSL=false
+2019, 10, 26 23:23:25:12
+Error connecting to MySQLdatabase
+User : root
+url: jdbc:mysql://localhost:3306/wrongtravel?useSSL=false
+2019, 10, 26 23:23:25:12
+Opereation failed to complete
+2019, 10, 26 23:23:25:12
+Opereation failed to complete
+2019, 10, 26 23:23:25:12
+Error connecting to MySQLdatabase
+User : root
+url: jdbc:mysql://localhost:3306/travel?useSSL=false
+2019, 10, 26 23:23:25:12
+Opereation failed to complete
+2019, 10, 26 23:23:25:12
+Opereation failed to complete
+2019, 10, 26 23:23:25:12
+Error connecting to MySQLdatabase
+User : root
+url: jdbc:mysql://localhost:3306/travel?useSSL=false
+2019, 10, 26 23:23:25:12
+Opereation failed to complete
+2019, 10, 26 23:23:25:12
+Opereation failed to complete
+2019, 10, 27 13:13:52:57
+Error connecting to MySQLdatabase
+User : root
+url: jdbc:mysql://localhost:3306/wrongtravel?useSSL=false
+2019, 10, 27 13:13:52:57
+Opereation failed to complete
+2019, 10, 27 13:13:52:57
+Opereation failed to complete
+2019, 10, 27 13:13:52:57
+Error in getData
+Error in query : Select * FROM Equipment WHERE EqId = 568 ;
+2019, 10, 27 14:14:36:36
+Error in getData
+Error in query : Select EquipId, EquipmentName, EquipmentDescription,EquipmentCapacity FROM Equipment WHERE EquipId = 568;
+2019, 10, 27 14:14:36:53
+Error in getData
+Error in query : Select EquipId, EquipmentName, EquipmentDescription,EquipmentCapacity FROM Equipment WHERE EquipId = 568;
+2019, 10, 27 14:14:38:50
+Error in getData
+Error in query : Select EquipId, EquipmentName, EquipmentDescription,EquipmentCapacity FROM Equipment WHERE EquipId = 568;
+2019, 10, 27 14:14:47:26
+Error in getData
+Error in query : Select EquipId, EquipmentName, EquipmentDescription,EquipmentCapacity FROM Equipment WHERE EquipId = 568;
+2019, 10, 27 15:15:03:57
+Error connecting to MySQLdatabase
+User : root
+url: jdbc:mysql://localhost:3306/travel?useSSL=false
+2019, 10, 27 15:15:03:57
+Opereation failed to complete
+2019, 10, 27 15:15:03:57
+Opereation failed to complete
+2019, 10, 27 17:17:37:27
+Error in getData
+Error in query : Select EquipId, EquipmentName, EquipmentDescription,EquipmentCapacity FROM Equipment WHERE EquipId =?
+2019, 10, 27 17:17:37:58
+Error in getData
+Error in query : Select EquipId, EquipmentName, EquipmentDescription,EquipmentCapacity FROM Equipment WHERE EquipId =?
+2019, 10, 27 17:17:38:11
+Error in getData
+Error in query : Select EquipId, EquipmentName, EquipmentDescription,EquipmentCapacity FROM Equipment WHERE EquipId =?
+2019, 10, 27 17:17:41:38
+Error in getData
+Error in query : Select EquipId, EquipmentName, EquipmentDescription,EquipmentCapacity FROM Equipment WHERE EquipId =?
+2019, 10, 27 18:18:05:17
+Error in getData
+Error in query : Select EquipId, EquipmentName, EquipmentDescription, EquipmentCapacity FROM Equipment WHERE EquipId =?;
+2019, 10, 27 18:18:05:17
+Some error
+2019, 10, 27 18:18:08:15
+Some error
+2019, 10, 27 18:18:38:47
+Some error
+2019, 10, 27 18:18:42:42
+Some error
+2019, 10, 27 18:18:45:56
+Some error
+2019, 10, 27 19:19:04:23
+Error in lines
+2019, 10, 27 19:19:04:23
+Some error
+2019, 10, 27 19:19:07:03
+Error in lines
+2019, 10, 27 19:19:07:03
+Some error
+2019, 10, 27 19:19:20:28
+Error in lines
+2019, 10, 27 20:20:29:34
+Error connecting to MySQLdatabase
+User : root
+url: jdbc:mysql://localhost:3306/travel?useSSL=false
+2019, 10, 27 20:20:29:34
+Opereation failed to complete
+2019, 10, 27 20:20:29:34
+Opereation failed to complete
+2019, 10, 27 20:20:29:34
+Error connecting to MySQLdatabase
+User : root
+url: jdbc:mysql://localhost:3306/travel?useSSL=false
+2019, 10, 27 20:20:29:34
+Opereation failed to complete
+2019, 10, 27 20:20:29:34
+Some error
+2019, 10, 27 20:20:29:34
+Opereation failed to complete
+2019, 10, 27 20:20:29:34
+Error connecting to MySQLdatabase
+User : root
+url: jdbc:mysql://localhost:3306/travel?useSSL=false
+2019, 10, 27 20:20:29:34
+Opereation failed to complete
+2019, 10, 27 20:20:29:34
+Opereation failed to complete
+2019, 10, 31 16:16:45:02
+Some error
+2019, 10, 31 16:16:45:02
+Some error
+2019, 10, 31 16:16:48:23
+Some error
+2019, 10, 31 16:16:48:23
+Some error
+2019, 10, 31 16:16:49:07
+Some error
+2019, 10, 31 16:16:49:07
+Some error
+2019, 10, 31 16:16:51:22
+Some error
+2019, 10, 31 16:16:51:22
+Some error
+2019, 10, 31 16:16:56:12
+Some error
+2019, 10, 31 16:16:59:20
+Some error
+2019, 10, 31 17:17:01:28
+Some error
+2019, 10, 31 17:17:02:57
+Some error
+2019, 10, 31 17:17:03:07
+Some error
+2019, 10, 31 17:17:19:27
+Some error
+2019, 10, 31 17:17:20:26
+Some error
+2019, 10, 31 17:17:21:22
+Some error
+2019, 10, 31 19:19:52:41
+Error connecting to MySQLdatabase
+User : root
+url: jdbc:mysql://localhost:3306/travel?useSSL=false
+2019, 10, 31 19:19:52:41
+Opereation failed to complete
+2019, 10, 31 19:19:52:41
+Opereation failed to complete
+2019, 10, 31 19:19:52:41
+Error connecting to MySQLdatabase
+User : root
+url: jdbc:mysql://localhost:3306/travel?useSSL=false
+2019, 10, 31 19:19:52:41
+Opereation failed to complete
+2019, 10, 31 19:19:52:41
+Opereation failed to complete
+2019, 10, 31 19:19:52:41
+Opereation failed to complete
+2019, 10, 31 19:19:52:41
+Error connecting to MySQLdatabase
+User : root
+url: jdbc:mysql://localhost:3306/travel?useSSL=false
+2019, 10, 31 19:19:52:41
+Opereation failed to complete
+2019, 10, 31 19:19:52:41
+Opereation failed to complete
+2019, 10, 31 19:19:52:41
+Error connecting to MySQLdatabase
+User : root
+url: jdbc:mysql://localhost:3306/travel?useSSL=false
+2019, 10, 31 19:19:52:41
+Opereation failed to complete
+2019, 10, 31 19:19:52:41
+Opereation failed to complete
